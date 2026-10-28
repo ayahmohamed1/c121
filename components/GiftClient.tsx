@@ -340,7 +340,7 @@ export default function GiftClient({ data }: Props) {
                   navigateTo('bucketList')
                 }}
               >
-                <span> things remind me of you</span>
+                <span> things we wanna do together</span>
                 <span className="pulse-arrow">→</span>
               </button>
             </div>
